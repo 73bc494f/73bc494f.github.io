@@ -431,16 +431,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-i-started-visiting-scholar-at-stanford-nlp-group-supervised-by-prof-christopher-manning",
+          title: 'I started Visiting Scholar at Stanford NLP Group supervised by Prof. Christopher Manning....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-as-an-organizing-member-of-sustainable-transition-with-ai-stai-we-hosted-the-great-event-at-ijcai-2024-thank-you-everyone-who-joined-the-workshop",
+          title: 'As an organizing member of Sustainable Transition with AI (STAI), we hosted the...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-as-became-an-organizing-member-of-climatenlp-2025-acl2025-consider-to-submit-your-paper",
+          title: 'As became an organizing member of ClimateNLP 2025 @ ACL2025. Consider to submit...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
