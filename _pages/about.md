@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Researcher at <a href='https://www.hitachi.co.jp/'>Hitachi</a>, Researcher at <a href='https://www.hitachi.us/'>Hitachi America</a>, Visiting Scholar at <a href='https://nlp.stanford.edu/'>Stanford University</a>
 
 profile:
   align: right
