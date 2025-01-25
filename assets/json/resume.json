@@ -1,57 +1,39 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Gaku Morio",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "email": "gakumorio@gmail.com"
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Stanford NLP Group, Stanford University",
+      "location": "Palo Alto, United States",
+      "position": "Visiting Scholar",
+      "url": "https://nlp.stanford.edu/people/",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "Work on the interdisciplinary research of sustainability, climate change, and natural language processing. Supervised by Prof. Christopher D. Manning.",
+      "highlights": ["Development of NLP datasets and benchmarks for climate change issues"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
+      "organization": "Hitachi America",
+      "location": "Santa Clara, United States",
+      "position": "Researcher",
+      "url": "https://www.hitachi.us/",
+      "startDate": "2023",
+      "endDate": "",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
+      "institution": "Tokyo University of Agriculture and Technology",
+      "location": "Koganei, Japan",
+      "url": "https://www.tuat.ac.jp/en/",
+      "area": "Computer Science",
+      "studyType": "Ms.Eng",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "10",
