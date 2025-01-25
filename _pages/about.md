@@ -8,18 +8,15 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Gaku Morio is a researcher at the intersection of NLP, social, and sustainability, currently serving as a Visiting Scholar at Stanford University under the guidance of [Prof. Christopher D. Manning](https://nlp.stanford.edu/~manning/) and a researcher at [Hitachi](https://www.hitachi.com/). My academic journey began with a BEng and MEng from the [Tokyo University of Agriculture and Technology](https://www.tuat.ac.jp/en/), where I received top honors and the best research award. At Hitachi, I have since developed a career in NLP especially in argument mining and parsing, contributing to fundamental research, real-world applications, and interdisciplinary collaborations. I always bridged the gap between advanced NLP techniques and industrial applications for finance, maitenance, and public service.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My recent research focus lies in investigating corporate sustainability claims and addressing the challenges of "greenwashing". My recent work at Stanford has resulted in contributions to analyzing corporate climate stances and sustainability reporting. I have published in leading conferences such as NeurIPS, ACL, and IJCAI and have collaborated with global experts in climate policy, sustainable finance, and AI. In addition to research, I have actively contributed to fostering academic exchange by organizing workshops, including [ClimateNLP](https://nlp4climate.github.io/) at ACL 2024 and [Sustainable Transition with AI](https://stai.jeju.ai/) at IJCAI 2024.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Driven by a commitment to meaningful impact, my long-term vision is to harness AI to provide actionable insights for stakeholders. It will enable evidence-based decision-making to promote better society (not limited to climate change).
