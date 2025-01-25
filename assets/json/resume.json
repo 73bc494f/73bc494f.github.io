@@ -104,8 +104,8 @@
   ],
   "publications": [
     {
-      "title": "Uncovering the mystery of ensemble learning through the information theoretical lens",
-      "date": "2023",
+      "name": "Uncovering the mystery of ensemble learning through the information theoretical lens",
+      "releaseDate": "2023",
       "publisher": "Nikkei xTECH (Nikkei group publishing company (Japanese))",
       "url": "https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00114/",
       "summary": "This press is based on my co-authored work for the fundamental research of ensemble learning theory."
