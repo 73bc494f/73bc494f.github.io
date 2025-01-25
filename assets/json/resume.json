@@ -33,20 +33,66 @@
       "location": "Koganei, Japan",
       "url": "https://www.tuat.ac.jp/en/",
       "area": "Computer Science",
-      "studyType": "Ms.Eng",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "studyType": "M.S. Eng.",
+      "startDate": "2017",
+      "endDate": "2019",
+      "courses": ["Best Research Award of the department)"]
+    },
+    {
+      "institution": "Tokyo University of Agriculture and Technology",
+      "location": "Koganei, Japan",
+      "url": "https://www.tuat.ac.jp/en/",
+      "area": "Computer Science",
+      "studyType": "B.S. Eng.",
+      "startDate": "2014",
+      "endDate": "2017",
+      "courses": ["Early graduation honor"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Honorable Mention Award",
+      "date": "2022",
+      "awarder": "International Workshop on Semantic Evaluation (SemEval)",
+      "url": "https://semeval.github.io/SemEval2022/awards.html",
+      "summary": "Selected as one of the top 4 papers amongst 200+ system papers."
+    },
+    {
+      "title": "Best Research Award",
+      "date": "2019",
+      "awarder": "Computer and Information Sciences, Tokyo University of Agriculture and Technology"
+    },
+    {
+      "title": "Budding Researchers Award",
+      "date": "2018",
+      "awarder": "WI2",
+      "url": "https://www.sigwi2.org/prev-awardlist.html"
+    },
+    {
+      "title": "FIT Incentive Award",
+      "date": "2017",
+      "awarder": "Information Processing Society of Japan",
+      "url": "https://www.ipsj.or.jp/award/fit-syorei.html"
+    },
+    {
+      "title": "Honorable Mention Award",
+      "date": "2017",
+      "awarder": "IIAI International Congress on Advanced Applied Informatics",
+      "url": "https://www.iaiai.org/conference/aai2017/awards/"
+    },
+    {
+      "title": "Best Paper Award of IPSJ National Convention",
+      "date": "2017",
+      "awarder": "Information Processing Society of Japan",
+      "url": "https://www.ipsj.or.jp/award/taikaiyusyu.html",
+      "summary": "The best paper in the largest Japanese information processing society conference."
+    },
+    {
+      "title": "Student Encouragement Award of IPSJ National Convention",
+      "date": "2017",
+      "awarder": "Information Processing Society of Japan",
+      "url": "https://www.ipsj.or.jp/award/taikaigakusei.html",
+      "summary": "The best paper in the largest Japanese information processing society conference."
     }
   ],
   "certificates": [
