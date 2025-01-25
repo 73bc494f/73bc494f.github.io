@@ -17,7 +17,7 @@
       "highlights": ["Development of NLP datasets and benchmarks for climate change issues"]
     },
     {
-      "organization": "Hitachi America",
+      "name": "Hitachi America",
       "location": "Santa Clara, United States",
       "position": "Researcher",
       "url": "https://www.hitachi.us/",
@@ -26,7 +26,7 @@
       "summary": "Industrial research for finance applications"
     },
     {
-      "organization": "Hitachi",
+      "name": "Hitachi",
       "location": "Kokubunji, Japan",
       "position": "Researcher",
       "url": "https://www.hitachi.co.jp/",
@@ -99,10 +99,10 @@
       "title": "Student Encouragement Award of IPSJ National Convention",
       "date": "2017",
       "awarder": "Information Processing Society of Japan",
-      "url": "https://www.ipsj.or.jp/award/taikaigakusei.html",
+      "url": "https://www.ipsj.or.jp/award/taikaigakusei.html"
     }
   ],
-  "press": [
+  "publications": [
     {
       "title": "Uncovering the mystery of ensemble learning through the information theoretical lens",
       "date": "2023",
