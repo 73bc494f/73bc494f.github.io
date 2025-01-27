@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started Visiting Scholar at [Stanford NLP Group](https://nlp.stanford.edu/) supervised by Prof. Christopher Manning.
+I started Visiting Scholar at [Stanford NLP Group](https://nlp.stanford.edu/) supervised by Prof. Christopher D. Manning.
