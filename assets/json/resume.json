@@ -7,12 +7,21 @@
   },
   "work": [
     {
+      "name": "Hitachi",
+      "location": "Kokubunji, Japan",
+      "position": "Researcher",
+      "url": "https://www.hitachi.co.jp/",
+      "startDate": "2019",
+      "endDate": "",
+      "summary": "Industrial research for finance, public service, and maintenance applications"
+    },
+    {
       "name": "Stanford NLP Group, Stanford University",
       "location": "Palo Alto, United States",
       "position": "Visiting Scholar",
       "url": "https://nlp.stanford.edu/people/",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": "2025",
       "summary": "Work on the interdisciplinary research of sustainability, climate change, and natural language processing. Supervised by Prof. Christopher D. Manning.",
       "highlights": ["Development of NLP datasets and benchmarks for climate change issues"]
     },
@@ -22,17 +31,8 @@
       "position": "Researcher",
       "url": "https://www.hitachi.us/",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": "2025",
       "summary": "Industrial research for finance applications"
-    },
-    {
-      "name": "Hitachi",
-      "location": "Kokubunji, Japan",
-      "position": "Researcher",
-      "url": "https://www.hitachi.co.jp/",
-      "startDate": "2019",
-      "endDate": "",
-      "summary": "Industrial research for finance, public service, and maintenance applications"
     }
   ],
   "education": [
