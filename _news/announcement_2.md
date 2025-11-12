@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-As an organizing member of [Sustainable Transition with AI (STAI)](https://stai.jeju.ai/), we hosted the great event at IJCAI 2024. Thank you everyone who joined the workshop!
+As an organizing member of Sustainable Transition with AI (STAI), we hosted the great event at IJCAI 2024. Thank you everyone who joined the workshop!
