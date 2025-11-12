@@ -52,6 +52,17 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
+    },{id: "post-a-post-with-formatting-and-links",
+      
+        title: "a post with formatting and links",
+      
+      description: "march &amp; april, looking forward to summer",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2015/formatting-and-links/";
+        
+      },
     },{id: "news-i-started-visiting-scholar-at-stanford-nlp-group-supervised-by-prof-christopher-d-manning",
           title: 'I started Visiting Scholar at Stanford NLP Group supervised by Prof. Christopher D....',
           description: "",
@@ -64,7 +75,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-became-an-organizing-member-of-climatenlp-2025-acl2025-consider-to-submit-your-paper",
           title: 'I became an organizing member of ClimateNLP 2025 @ ACL2025. Consider to submit...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
